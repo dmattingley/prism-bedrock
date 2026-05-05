@@ -19,8 +19,8 @@
     }
   ],
   "require": {
-    "php": "^8.2",
-    "laravel/framework": "^11.0|^12.0",
+    "php": "^8.4",
+    "laravel/framework": "^13.0",
     "aws/aws-sdk-php": "^3.339",
     "prism-php/prism": ">=0.99.7"
   },
